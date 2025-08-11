@@ -1,6 +1,8 @@
 # claudemods-genqr
 
-i created this because people are charging for these features so here it for free for urls, phone numbers and email or appid
+i created this because people are charging for these features on android ios and on websites
+
+so here it is for free for urls, phone numbers and email or appid
 
 dependencies for arch qt6-base qrencode
 

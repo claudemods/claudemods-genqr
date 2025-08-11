@@ -1,4 +1,4 @@
 # claudemods-genqr
 qr code generator for urls, phone numbers and email 
 
-<img width="1280" height="800" alt="Screenshot_linux2024-clone1_2025-08-04_22:50:24" src="https://github.com/user-attachments/assets/a9b635b1-fea3-4813-ab05-8c83602c6794" />
+<img width="1920" height="1200" alt="Screenshot_20250811_010313" src="https://github.com/user-attachments/assets/fb7df03d-7668-4f20-b8ad-e40c1aa84b41" />

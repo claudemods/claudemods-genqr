@@ -6,7 +6,7 @@ so here it is for free for urls, phone numbers and email or appid
 
 dependencies for arch qt6-base qrencode
 
-website link and qt6 app photos below " qr generation on my website is beta and custom text doesnt work yet"
+website link and qt6 app photos below "qr generation on my website is beta and custom text doesnt work yet"
 
 ### https://claudemodsreloaded.com/claudemods-genqr.php 🚀
 
